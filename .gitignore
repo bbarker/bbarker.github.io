@@ -1,6 +1,7 @@
-
 #
 # Generated files
 #
-
+~npm-debug.log
+.idea
+*.iws
 *~
